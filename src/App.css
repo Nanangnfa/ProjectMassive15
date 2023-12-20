@@ -1,0 +1,135 @@
+/* Landing Page */
+.pg-body{
+    max-width: 100%;
+    overflow-x: hidden;
+}
+
+.heroImageLP{
+    background-image: linear-gradient(180deg, #cdd3ea, rgba(255, 255, 0, 0));
+}
+
+.helo-landingpg h1{
+    font-family: 'Poppins', sans-serif;
+    color: #353535;
+    font-size: 35px;
+    width: 70%;
+    margin-bottom: 30px;
+    font-weight: 800;
+}
+
+.helo-landingpg p{
+    font-family: 'Poppins', sans-serif;
+    color: #353535;
+    font-size: 19px;
+    width: 70%;
+    font-weight: 600;
+}
+
+.helo h1{
+    font-family: 'Poppins', sans-serif;
+    color: aliceblue;
+    font-size: 35px;
+    width: 70%;
+    margin-bottom: 30px;
+    font-weight: 800;
+}
+.helo p{
+    font-family: 'Poppins', sans-serif;
+    color: aliceblue;
+    font-size: 19px;
+    width: 70%;
+    font-weight: 600;
+}
+
+/* float */
+.float-left{
+    float:left
+}
+
+.float-right{
+    float:right;
+}
+
+.clearfix{
+    content: "";
+    clear: both;
+    display: table;
+}
+
+/* konten */
+.konten0{
+    width: 90%;
+    justify-content: center;
+}
+.konten1 h2{
+    font-family: 'Poppins', sans-serif;
+    font-weight: bold;
+}
+.konten1 p{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 700;
+}
+
+.kontenimg{
+    width: 65%;
+    float: right;
+}
+
+.kontenkeduaimg{
+    width: 65%;
+    float: left;
+}
+
+/* Footer */
+.teksfooter{
+    float: right;
+}
+
+/* Belanja */
+.pencarian{
+    width: 350px;
+    float: right;
+    margin-right: 70px;
+    margin-top: 20px;
+}
+.pencarianbtn{
+    float: right;
+}
+
+.belanjateks{
+    margin-left: 70px;
+    margin-top: 20px;
+    font-family: 'Poppins', sans-serif;
+}
+.belanjateks h3{
+    font-weight: bold;
+    font-family: 'Poppins', sans-serif;
+}
+
+/* katalog */
+.imgproduct{
+    height: 200px;
+}
+
+/* tentang kami */
+.tentangkami_teks h2{
+    font-family: 'Poppins', sans-serif;
+    color: #353535;
+    font-weight: 700;
+}
+
+.tentangkami_teks p{
+    font-family: 'Poppins', sans-serif;
+    color: #353535;
+    font-weight: 600;
+}
+.tentangkami_teks li{
+    font-family: 'Poppins', sans-serif;
+    color: #353535;
+    font-weight: 600;
+}
+
+/* Penjelasan Penjual */
+.heroImagePP{
+    background-image: url(./assets/bgpp.png);
+}
